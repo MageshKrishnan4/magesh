@@ -1,14 +1,24 @@
 package org.sample;
 
+
+
 public class Sample {
 
-	public static void main(String[] args) {
+	
+	private void test1() {
 		// TODO Auto-generated method stub
+
+	}
+		
+		
+	}
+	
+
 
 		
 	
 		
 		
-	}
+	
 
-}
+
